@@ -10,6 +10,7 @@ for (let i= 0; i < daftarHargaBarang.length; i++){
 
 if (totalBelanja> 30000){
     console.log("Selamat! Anda mendapatkan diskon.");
+    
 
 }else{
     console.log("Belanja lagi agar mendapat diskon.")
